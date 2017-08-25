@@ -1,5 +1,5 @@
 # Todos
-Travix Front-End Tech Task (React/Mobx)
+Travix Todos (React/Mobx)
 
 ## Getting Started
 Task | Description
